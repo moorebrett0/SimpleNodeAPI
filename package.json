@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-api-sample",
+  "version": "1.0.0",
+  "description": "An Example of making a node.js API server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Moore",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
